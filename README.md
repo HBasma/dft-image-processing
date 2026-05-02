@@ -37,4 +37,4 @@ Filters are created as masks and applied in the frequency domain.
 ## How to run
 ```bash
 pip install numpy pillow matplotlib
-python tp4.py
+python dft-image-processing.py
